@@ -1,0 +1,26 @@
+//Criar a estrutura do arquivo HTML
+	"Estrutura HTML" : {
+		"prefix": [
+			"<html"
+		],
+		"body": [
+			"<!DOCTYPE html>",
+			"<html>",
+			"",
+			"	<head>",
+			"",
+			"		<title></title>",
+			"		<meta charset=\"utf-8\">",
+			"		<meta http-equiv=\"Content-Language\" content=\"pt-br\">",
+			"		<meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">",
+			"",
+			"	</head>",
+			"",
+			"	<body>",
+			"",
+			"	</body>",
+			"",
+			"</html>"
+		],
+		"description": "Cria a estrutura de um arquivo HTML básico automaticamente"
+	}
